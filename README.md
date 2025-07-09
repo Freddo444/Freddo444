@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fredrick (aka Freddo444)
+# 👋 Hi, I'm Fredrick L.
 
 ## 🚀 Laravel Dev | Builder | Operator | OSS Contributor
 
