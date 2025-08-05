@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fredrick L.
+# 👋 Hi, I'm Frederick L.
 
 ## 🚀 Laravel Dev | Builder | Operator | OSS Contributor
 
